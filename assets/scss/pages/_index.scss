@@ -1,0 +1,144 @@
+body{
+  font-family: 'Bruno Ace SC', cursive;
+}
+.text-titl{
+  font-family: 'Bruno Ace SC', cursive;
+}
+a:link{
+  color:#ffffff;
+  text-decoration: none
+}
+a{
+  color: #ffffff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+}
+
+.fs-16px{
+font-size: 16px;
+line-height:24px;
+color: #000000;
+font-family: 'Bruno Ace SC', cursive;
+}
+
+.fs-24{
+font-size: 24px;
+line-height:36px;
+color: #ffffff;
+font-family: 'Bruno Ace SC', cursive;
+}
+.fs-20-card-title{
+  font-size: 20px;
+line-height:30px;
+color: #000000;
+font-family: 'Bruno Ace SC', cursive;
+}
+
+.fs-64{
+  font-size: 64px;
+  line-height: 96px;
+  color: #ffffff;
+  font-family: 'Bruno Ace SC', cursive;
+  
+}
+
+.fs-128{
+font-size: 128px;
+line-height:192px ;
+text-align: right;
+color: #00FFA3;
+font-family: 'Bruno Ace SC', cursive;
+}
+
+.img{
+  max-width:636px;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  
+}
+.py-72{
+  padding-top:72px;
+  padding-bottom: 72px;
+}
+.bg-img{
+  background-image: url(../assets/images/background-img.png);
+  max-width: 100%;
+  margin: 0 auto;
+  background-size: cover;
+  // width:1920px;
+  height:auto;
+  background-repeat:repeat;
+}
+
+.bg-sm{
+  max-width: 100%;
+  height: 98px;
+  vertical-align: middle;
+}
+.bg-xl{
+  max-width: 100%;
+  height: 746px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.card-body{
+  padding:0px;
+}
+.mb-28{
+  margin-bottom: 28px;
+}
+
+.mb-24{
+  margin-bottom: 24px;
+}
+
+.mb-76{
+  margin-bottom: 76px;
+}
+
+
+.mt-160{
+  margin-top: 160px;
+}
+.mb-160{
+  margin-bottom: 160px;
+}
+
+.vector{
+  max-width:79px; 
+}
+.dc-ig-{
+  max-width:162px;
+}
+.bg-lg{
+  background-image: linear-gradient(to bottom, #050014 50%, #01021E 89%);
+}
+
+.projects-wrapper{
+  display: flex;
+  justify-content: space-between;
+}
+.Project-right {
+  display: flex;
+  flex-direction: column;
+}
+
+.py-129{
+  padding:129px 0px;
+}
+
+.img3-set{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.img3:hover{
+  box-shadow: 0 0 10px 0 #9094FFE5 inset, 0 0 20px 2px #9094FFE5;
+  border-radius:25%;
+}

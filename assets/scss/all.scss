@@ -1,0 +1,16 @@
+@import "../../node_modules/bootstrap/scss/functions";
+@import './utils/variables';
+
+
+@import './layout/header.scss';
+@import './layout/footer.scss';
+
+
+@import './pages/index.scss';
+
+@import "../../node_modules/bootstrap";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&family=Noto+Sans+TC:wght@700&display=swap');
+
+// https://marduklien.github.io/web-layout-training-2023/week2-personal-website/ 參考
